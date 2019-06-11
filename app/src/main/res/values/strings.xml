@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="dialog_title">네트워크 연결 실패</string>
+    <string name="dialog_content">네트워크 연결을 다시 시도하시겠습니까?</string>
+    <string name="dialog_retry">재시도</string>
+    <string name="dialog_close">닫기</string>
+</resources>
